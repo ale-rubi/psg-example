@@ -1,0 +1,6 @@
+print ("¿Qué tal estuvo tu fin de semana, Juan?")
+print ("¡Hola Ana! Fue genial, fui a una excursión a las montañas con unos amigos. ¿Y el tuyo?")
+print ("Ah, el mío fue tranquilo. Solo me quedé en casa viendo algunas películas y leyendo un libro. Pero suena divertido tu viaje.")
+print ("Sí, fue emocionante. Las vistas eran impresionantes. Deberías venir la próxima vez.")
+print ("Definitivamente. Cuidate mucho adios")
+print ("Adios, tu tambien")
