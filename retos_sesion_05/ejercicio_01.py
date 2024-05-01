@@ -4,4 +4,4 @@
 horas = 160
 tarifa = 5.5
 salario = horas * tarifa
-print (salario)
+print ("El salario sera de: ",salario, " USD")
