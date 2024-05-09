@@ -157,9 +157,11 @@ print(buscar, type(buscar))
 print ("Función isdigit")
 resultado = "100".isdigit()
 print (resultado, type(resultado))
+
 print ("Función isalpha")
 resultado = "Hola".isalpha()
 print (resultado, type(resultado))
+
 print ("Función isalnum")
 resultado = "usuario123".isalnum()
 print (resultado, type(resultado))
